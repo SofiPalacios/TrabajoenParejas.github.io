@@ -1,0 +1,61 @@
+body
+{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    background-color: rgb(56, 199, 194);
+}
+
+h1{
+
+    font-size: 75px;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 200px;
+}
+
+
+
+#btnRetiro {
+background:#3f99d8; 
+border: 0px;
+font-size: 1.6rem;
+}
+
+.list-group{
+    font-family: 'Raleway';
+    font-weight: bolder;
+}
+
+.list-group-item 
+{
+    background: #ffffff;
+    color: #ffffff;
+}
+
+.list-group-item  span {
+    background: rgb(6, 134, 151);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+
+}
+
+#info
+{
+    margin: 15px;
+    height: 2rem;
+}
+
+ul li 
+{
+    font-family: monospace;
+}
